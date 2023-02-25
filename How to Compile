@@ -1,0 +1,19 @@
+To use/compile :
+
+1. Open play.fancade.com
+1.5. (Optional) Go to You Tab and sign up for a Fancade Account (Related to Publishing within Fancade Library)
+2. Go to Projects Tab.
+3. Drag and Drop the project file into the page.
+4. A Game Project called Coots The Cat should appear under Projects
+5. Now you have access to all code and assets.
+
+6. To Publish outside Fancade :
+6.1. Make a copy of the Html of the compiled original version.
+6.2. Click share while in the Menu of your project. ( The menu with Description and all levels )
+6.3. You should get a prompt to copy a play.fancade.com link.
+6.4. Replace the link within the copy of the Html file with your new link.
+6.5. To check whether its working, run the html on any web-making websites that allow embeds.
+7. Enjoy!
+
+Game by GM637
+Fancade ( App used to make the game ) by Martin Magni
